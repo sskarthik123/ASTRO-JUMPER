@@ -17,11 +17,10 @@ shall center around the creation of numbered objects and need to generate those 
 Phase - 3:
 Numbers will be generated as per the task 2, but in this task the numbers need to slowly speed up the generation by which game gets complicated as well.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-prototype - 1 version workflow:
+PROTOTYPE - 1 VERSION WORKFLOW:
 difficulty will have only one mode which is easy mode and we perfect it out first and we perfect it out with number generations and numbers which will automatically sped up, all these things will be checked.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-prototype - 2 version (could be final version)workflow:
+
+PROTOTYPE - 2 VERSION (could be final version)WORKFLOW:
 upon perfecting out easy difficulty with all the functionalities we will move into the further more difficulties as well with same functional applications of the prototype version - 1
 
 Phase - 4:
