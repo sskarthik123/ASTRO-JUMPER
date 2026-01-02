@@ -1,11 +1,14 @@
 # ASTRO-JUMPER
 A game where you shall press particular numbers to jump on the particular numbered obstacles.
+
 ||NOTE: STILL IN DEVELOPMENT, THERE MIGHT EXIST SOME CHANGES TO THE ALREADY PRE EXISTING FILES AS WELL AND AS THE PROJECT UNFOLDS THERE MIGHT EXIST NEW DEPENDECY TOOLS AS WELL FOR THE BETTER WORKING OF THE PROJECT.||
 
 Aim/Objective of this project: To develop a game, which is a two dimensional endless runner where upon press of the particular number, the playable character shall jump acrooss the particular numbered obstacle.
+
 Tools/Necessary Libraries: WxWidgets - A C++ GUI library (needs proper setup and implementation right now).
 
 Workflow for this project:
+
 Phase - 1 (Currently working on this phase):
 To develop a menu screen which shows name of the game, and to select between two things which were being 'start game, difficulty(Easy, Medium, Hard, Sinister), score and close the game' should have a proper edge cases and error handling to it as well incase of wrong selection or improper selections.
 1. Should be able to have a proper test case or error handling for the selection of options.
